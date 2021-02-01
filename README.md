@@ -1,7 +1,6 @@
 # csi-read-ui
-
-为了更方便看csi数据图像，写的一个demo版本的界面
-
+为了更方便看csi数据图像，写的一个demo版本的界面<br/>
+图片可能看不了 博客地址：http://jluyeyu.leanote.com/post/csi
 # 使用方法
 
 matlab 切换一下目录，打开ui文件夹下的MyCsiTools.m，运行即可
